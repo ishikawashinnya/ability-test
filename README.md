@@ -23,6 +23,7 @@ Laravel環境構築
 
 #ER図
 
+![ER drawio](https://github.com/ishikawashinnya/ability-test/assets/161817728/0b49b8e1-15a3-4782-ba91-20d1ff64a4b8)
 
 
 
