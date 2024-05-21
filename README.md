@@ -19,8 +19,11 @@ Laravel環境構築
 6. php artisan db:seed
 
 #使用技術
+
 ・Laravel Framework 8.83.27
+
 ・PHP7.4.9
+
 ・MySQL8.0.26
 
 #ER図
